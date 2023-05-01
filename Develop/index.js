@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMD = require('generateMarkdown.js')
 
 // TODO: Create an array of questions for user input
 inquirer
@@ -38,7 +39,12 @@ inquirer
          name: 'Sources'
         },
     ])
-const questions = [Title, Description, appLink, githubLink, Features, Usage, Contributors, Sources];
+    // TODO: Create a function to write README file
+    .then(data) => {
+        const {Title, Description, appLink, githubLink, Features, Usage, Contributors, Sources} = data;
+        const fileName = `README.md`;
+        fs.writeFile(fileName, data), 
+    }
 
 
 // TODO: Create a function to write README file
