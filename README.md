@@ -18,7 +18,7 @@
    ![Video Demonstration that the prompts run, the user's input is recieved and a markdown is generated properly](https://user-images.githubusercontent.com/124208861/236367409-e9d2eaad-d3ea-4c85-91b4-60daf8a13dbf.mp4)
 
    ## Repository
-   ![You can access the repository here.](www.github.com/annabellefosburgh/complex-bee)
+   ![You can access the repository here.](https://github.com/annabellefosburgh/complex-bee)
 
    ## Features
    This application features a prompt where you will be asked questions in your terminal and will have the option to respond, a list type question with choices to choose from, and a professionally written markdown file with the user's input. 
