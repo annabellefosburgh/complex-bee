@@ -16,6 +16,8 @@
    ## Demonstration
    
    ![Video Demonstration that the prompts run, the user's input is recieved and a markdown is generated properly](https://user-images.githubusercontent.com/124208861/236367409-e9d2eaad-d3ea-4c85-91b4-60daf8a13dbf.mp4)
+   
+   ![An Example README.md file that was created with the generator](https://github.com/annabellefosburgh/complex-bee/blob/main/Develop/README.md)
 
    ## Repository
    ![You can access the repository here.](https://github.com/annabellefosburgh/complex-bee)
@@ -38,6 +40,6 @@
   N/A
 
    ## Sources
-   [https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba]
-   [https://www.w3schools.com/nodejs/nodejs_npm.asp]
-   [https://www.npmjs.com/package/inquirer]  
+   https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+   https://www.w3schools.com/nodejs/nodejs_npm.asp
+   https://www.npmjs.com/package/inquirer
